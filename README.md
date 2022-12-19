@@ -1,5 +1,5 @@
-This is our project code base!
+This is our project code base for a single-cell simulation!
 
-You may find all of tools and generated data within the repo. Primarily SCSilicon and CellCoal were used for data generation, while a web tool was used for newick tree generation. 
+You will find all of tools and generated data within the repo. Primarily SCSilicon and CellCoal were used for data generation, while a web tool was used for newick tree generation. 
 
-We assume know credit for any of the tool used, all proper credit and citations should be included based on the author's requirements. 
+We assume no credit for any of the tool used. Please give all proper credit and citations to the original author.
