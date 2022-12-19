@@ -1,0 +1,217 @@
+* --------------------------------------------------*
+* Computation of the Robinson and Foulds            *
+* topological distance between two (or more) trees. *
+* ------------------------------------------------- *
+
+RF Distance between Tree 1 and Tree 2 = 34
+RF Distance between Tree 1 and Tree 3 = 33
+RF Distance between Tree 1 and Tree 4 = 34
+RF Distance between Tree 1 and Tree 5 = 29
+RF Distance between Tree 1 and Tree 6 = 32
+RF Distance between Tree 1 and Tree 7 = 32
+RF Distance between Tree 1 and Tree 8 = 33
+RF Distance between Tree 1 and Tree 9 = 33
+RF Distance between Tree 1 and Tree 10 = 31
+RF Distance between Tree 1 and Tree 11 = 32
+RF Distance between Tree 1 and Tree 12 = 30
+RF Distance between Tree 1 and Tree 13 = 33
+RF Distance between Tree 1 and Tree 14 = 33
+RF Distance between Tree 1 and Tree 15 = 31
+RF Distance between Tree 1 and Tree 16 = 32
+RF Distance between Tree 1 and Tree 17 = 31
+RF Distance between Tree 1 and Tree 18 = 33
+RF Distance between Tree 1 and Tree 19 = 33
+RF Distance between Tree 1 and Tree 20 = 32
+RF Distance between Tree 2 and Tree 3 = 35
+RF Distance between Tree 2 and Tree 4 = 34
+RF Distance between Tree 2 and Tree 5 = 33
+RF Distance between Tree 2 and Tree 6 = 34
+RF Distance between Tree 2 and Tree 7 = 34
+RF Distance between Tree 2 and Tree 8 = 33
+RF Distance between Tree 2 and Tree 9 = 35
+RF Distance between Tree 2 and Tree 10 = 33
+RF Distance between Tree 2 and Tree 11 = 33
+RF Distance between Tree 2 and Tree 12 = 32
+RF Distance between Tree 2 and Tree 13 = 35
+RF Distance between Tree 2 and Tree 14 = 35
+RF Distance between Tree 2 and Tree 15 = 33
+RF Distance between Tree 2 and Tree 16 = 35
+RF Distance between Tree 2 and Tree 17 = 35
+RF Distance between Tree 2 and Tree 18 = 33
+RF Distance between Tree 2 and Tree 19 = 35
+RF Distance between Tree 2 and Tree 20 = 34
+RF Distance between Tree 3 and Tree 4 = 36
+RF Distance between Tree 3 and Tree 5 = 33
+RF Distance between Tree 3 and Tree 6 = 34
+RF Distance between Tree 3 and Tree 7 = 30
+RF Distance between Tree 3 and Tree 8 = 35
+RF Distance between Tree 3 and Tree 9 = 33
+RF Distance between Tree 3 and Tree 10 = 33
+RF Distance between Tree 3 and Tree 11 = 33
+RF Distance between Tree 3 and Tree 12 = 32
+RF Distance between Tree 3 and Tree 13 = 35
+RF Distance between Tree 3 and Tree 14 = 35
+RF Distance between Tree 3 and Tree 15 = 33
+RF Distance between Tree 3 and Tree 16 = 34
+RF Distance between Tree 3 and Tree 17 = 35
+RF Distance between Tree 3 and Tree 18 = 35
+RF Distance between Tree 3 and Tree 19 = 33
+RF Distance between Tree 3 and Tree 20 = 34
+RF Distance between Tree 4 and Tree 5 = 33
+RF Distance between Tree 4 and Tree 6 = 32
+RF Distance between Tree 4 and Tree 7 = 34
+RF Distance between Tree 4 and Tree 8 = 35
+RF Distance between Tree 4 and Tree 9 = 35
+RF Distance between Tree 4 and Tree 10 = 33
+RF Distance between Tree 4 and Tree 11 = 31
+RF Distance between Tree 4 and Tree 12 = 32
+RF Distance between Tree 4 and Tree 13 = 35
+RF Distance between Tree 4 and Tree 14 = 35
+RF Distance between Tree 4 and Tree 15 = 33
+RF Distance between Tree 4 and Tree 16 = 35
+RF Distance between Tree 4 and Tree 17 = 35
+RF Distance between Tree 4 and Tree 18 = 35
+RF Distance between Tree 4 and Tree 19 = 35
+RF Distance between Tree 4 and Tree 20 = 34
+RF Distance between Tree 5 and Tree 6 = 31
+RF Distance between Tree 5 and Tree 7 = 31
+RF Distance between Tree 5 and Tree 8 = 32
+RF Distance between Tree 5 and Tree 9 = 32
+RF Distance between Tree 5 and Tree 10 = 30
+RF Distance between Tree 5 and Tree 11 = 30
+RF Distance between Tree 5 and Tree 12 = 29
+RF Distance between Tree 5 and Tree 13 = 32
+RF Distance between Tree 5 and Tree 14 = 32
+RF Distance between Tree 5 and Tree 15 = 30
+RF Distance between Tree 5 and Tree 16 = 32
+RF Distance between Tree 5 and Tree 17 = 32
+RF Distance between Tree 5 and Tree 18 = 32
+RF Distance between Tree 5 and Tree 19 = 32
+RF Distance between Tree 5 and Tree 20 = 29
+RF Distance between Tree 6 and Tree 7 = 32
+RF Distance between Tree 6 and Tree 8 = 33
+RF Distance between Tree 6 and Tree 9 = 33
+RF Distance between Tree 6 and Tree 10 = 29
+RF Distance between Tree 6 and Tree 11 = 31
+RF Distance between Tree 6 and Tree 12 = 30
+RF Distance between Tree 6 and Tree 13 = 33
+RF Distance between Tree 6 and Tree 14 = 31
+RF Distance between Tree 6 and Tree 15 = 31
+RF Distance between Tree 6 and Tree 16 = 33
+RF Distance between Tree 6 and Tree 17 = 31
+RF Distance between Tree 6 and Tree 18 = 33
+RF Distance between Tree 6 and Tree 19 = 31
+RF Distance between Tree 6 and Tree 20 = 32
+RF Distance between Tree 7 and Tree 8 = 33
+RF Distance between Tree 7 and Tree 9 = 31
+RF Distance between Tree 7 and Tree 10 = 31
+RF Distance between Tree 7 and Tree 11 = 31
+RF Distance between Tree 7 and Tree 12 = 31
+RF Distance between Tree 7 and Tree 13 = 33
+RF Distance between Tree 7 and Tree 14 = 33
+RF Distance between Tree 7 and Tree 15 = 29
+RF Distance between Tree 7 and Tree 16 = 33
+RF Distance between Tree 7 and Tree 17 = 33
+RF Distance between Tree 7 and Tree 18 = 33
+RF Distance between Tree 7 and Tree 19 = 31
+RF Distance between Tree 7 and Tree 20 = 32
+RF Distance between Tree 8 and Tree 9 = 34
+RF Distance between Tree 8 and Tree 10 = 32
+RF Distance between Tree 8 and Tree 11 = 32
+RF Distance between Tree 8 and Tree 12 = 31
+RF Distance between Tree 8 and Tree 13 = 34
+RF Distance between Tree 8 and Tree 14 = 34
+RF Distance between Tree 8 and Tree 15 = 32
+RF Distance between Tree 8 and Tree 16 = 32
+RF Distance between Tree 8 and Tree 17 = 34
+RF Distance between Tree 8 and Tree 18 = 34
+RF Distance between Tree 8 and Tree 19 = 34
+RF Distance between Tree 8 and Tree 20 = 33
+RF Distance between Tree 9 and Tree 10 = 30
+RF Distance between Tree 9 and Tree 11 = 32
+RF Distance between Tree 9 and Tree 12 = 31
+RF Distance between Tree 9 and Tree 13 = 32
+RF Distance between Tree 9 and Tree 14 = 34
+RF Distance between Tree 9 and Tree 15 = 32
+RF Distance between Tree 9 and Tree 16 = 33
+RF Distance between Tree 9 and Tree 17 = 34
+RF Distance between Tree 9 and Tree 18 = 34
+RF Distance between Tree 9 and Tree 19 = 30
+RF Distance between Tree 9 and Tree 20 = 33
+RF Distance between Tree 10 and Tree 11 = 28
+RF Distance between Tree 10 and Tree 12 = 29
+RF Distance between Tree 10 and Tree 13 = 32
+RF Distance between Tree 10 and Tree 14 = 30
+RF Distance between Tree 10 and Tree 15 = 30
+RF Distance between Tree 10 and Tree 16 = 32
+RF Distance between Tree 10 and Tree 17 = 32
+RF Distance between Tree 10 and Tree 18 = 32
+RF Distance between Tree 10 and Tree 19 = 32
+RF Distance between Tree 10 and Tree 20 = 29
+RF Distance between Tree 11 and Tree 12 = 30
+RF Distance between Tree 11 and Tree 13 = 32
+RF Distance between Tree 11 and Tree 14 = 30
+RF Distance between Tree 11 and Tree 15 = 30
+RF Distance between Tree 11 and Tree 16 = 31
+RF Distance between Tree 11 and Tree 17 = 32
+RF Distance between Tree 11 and Tree 18 = 32
+RF Distance between Tree 11 and Tree 19 = 32
+RF Distance between Tree 11 and Tree 20 = 31
+RF Distance between Tree 12 and Tree 13 = 31
+RF Distance between Tree 12 and Tree 14 = 31
+RF Distance between Tree 12 and Tree 15 = 29
+RF Distance between Tree 12 and Tree 16 = 30
+RF Distance between Tree 12 and Tree 17 = 31
+RF Distance between Tree 12 and Tree 18 = 31
+RF Distance between Tree 12 and Tree 19 = 31
+RF Distance between Tree 12 and Tree 20 = 30
+RF Distance between Tree 13 and Tree 14 = 34
+RF Distance between Tree 13 and Tree 15 = 32
+RF Distance between Tree 13 and Tree 16 = 33
+RF Distance between Tree 13 and Tree 17 = 34
+RF Distance between Tree 13 and Tree 18 = 34
+RF Distance between Tree 13 and Tree 19 = 34
+RF Distance between Tree 13 and Tree 20 = 33
+RF Distance between Tree 14 and Tree 15 = 32
+RF Distance between Tree 14 and Tree 16 = 33
+RF Distance between Tree 14 and Tree 17 = 34
+RF Distance between Tree 14 and Tree 18 = 34
+RF Distance between Tree 14 and Tree 19 = 34
+RF Distance between Tree 14 and Tree 20 = 33
+RF Distance between Tree 15 and Tree 16 = 31
+RF Distance between Tree 15 and Tree 17 = 32
+RF Distance between Tree 15 and Tree 18 = 32
+RF Distance between Tree 15 and Tree 19 = 32
+RF Distance between Tree 15 and Tree 20 = 31
+RF Distance between Tree 16 and Tree 17 = 31
+RF Distance between Tree 16 and Tree 18 = 33
+RF Distance between Tree 16 and Tree 19 = 33
+RF Distance between Tree 16 and Tree 20 = 32
+RF Distance between Tree 17 and Tree 18 = 34
+RF Distance between Tree 17 and Tree 19 = 32
+RF Distance between Tree 17 and Tree 20 = 31
+RF Distance between Tree 18 and Tree 19 = 34
+RF Distance between Tree 18 and Tree 20 = 33
+RF Distance between Tree 19 and Tree 20 = 32
+
+
+1	0 34 33 34 29 32 32 33 33 31 32 30 33 33 31 32 31 33 33 32 
+2	34 0 35 34 33 34 34 33 35 33 33 32 35 35 33 35 35 33 35 34 
+3	33 35 0 36 33 34 30 35 33 33 33 32 35 35 33 34 35 35 33 34 
+4	34 34 36 0 33 32 34 35 35 33 31 32 35 35 33 35 35 35 35 34 
+5	29 33 33 33 0 31 31 32 32 30 30 29 32 32 30 32 32 32 32 29 
+6	32 34 34 32 31 0 32 33 33 29 31 30 33 31 31 33 31 33 31 32 
+7	32 34 30 34 31 32 0 33 31 31 31 31 33 33 29 33 33 33 31 32 
+8	33 33 35 35 32 33 33 0 34 32 32 31 34 34 32 32 34 34 34 33 
+9	33 35 33 35 32 33 31 34 0 30 32 31 32 34 32 33 34 34 30 33 
+10	31 33 33 33 30 29 31 32 30 0 28 29 32 30 30 32 32 32 32 29 
+11	32 33 33 31 30 31 31 32 32 28 0 30 32 30 30 31 32 32 32 31 
+12	30 32 32 32 29 30 31 31 31 29 30 0 31 31 29 30 31 31 31 30 
+13	33 35 35 35 32 33 33 34 32 32 32 31 0 34 32 33 34 34 34 33 
+14	33 35 35 35 32 31 33 34 34 30 30 31 34 0 32 33 34 34 34 33 
+15	31 33 33 33 30 31 29 32 32 30 30 29 32 32 0 31 32 32 32 31 
+16	32 35 34 35 32 33 33 32 33 32 31 30 33 33 31 0 31 33 33 32 
+17	31 35 35 35 32 31 33 34 34 32 32 31 34 34 32 31 0 34 32 31 
+18	33 33 35 35 32 33 33 34 34 32 32 31 34 34 32 33 34 0 34 33 
+19	33 35 33 35 32 31 31 34 30 32 32 31 34 34 32 33 32 34 0 32 
+20	32 34 34 34 29 32 32 33 33 29 31 30 33 33 31 32 31 33 32 0 
